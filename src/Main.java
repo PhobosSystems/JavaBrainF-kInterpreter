@@ -11,6 +11,10 @@ import java.util.Scanner;
  *
  * Warning!   may not catch invalid loops and out of bounds memory cell values
  * memory cell indices do not wrap around.
+ * 
+ * Instructions: place in same directory as txt file named Instructions.txt containing Brainf**k program. Run from command line or IDE
+ *
+ *Instru
  */
 public class Main {
 
