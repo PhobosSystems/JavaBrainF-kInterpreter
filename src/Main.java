@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 
  * Instructions: place in same directory as txt file named Instructions.txt containing Brainf**k program. Run from command line or IDE
  *
- *Instru
+ *
  */
 public class Main {
 
